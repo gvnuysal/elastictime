@@ -1,0 +1,6 @@
+@GvnAtlas.ElasticSearchAPI_HostAddress = http://localhost:5114
+
+GET {{GvnAtlas.ElasticSearchAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
